@@ -29,5 +29,9 @@ git branch -M main
 git push -u origin main
 
 
-#commit de los cambios
+#commit de los cambi
+
 git add .
+git commit -m "comentarioaqui"
+
+git status para ver los status
